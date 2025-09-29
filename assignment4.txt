@@ -1,4 +1,3 @@
 VCS = Version Control System
 CLI = Command Line Interface
 (There will be conflict file when merging Branch2 into main) warning message
-This content will be deleted
